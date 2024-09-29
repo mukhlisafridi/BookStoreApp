@@ -3,3 +3,4 @@ node_modules/
 
 # Env file ko ignore karne ke liye
 .env
+.package-lock.json
