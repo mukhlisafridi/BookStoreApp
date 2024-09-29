@@ -1,0 +1,5 @@
+# Node modules ko ignore karne ke liye
+node_modules/
+
+# Env file ko ignore karne ke liye
+.env
